@@ -1,0 +1,15 @@
+--- #YAML:1.0
+name:                Tk-JPEG-Lite
+version:             2.014_04
+abstract:            ~
+license:             ~
+generated_by:        ExtUtils::MakeMaker version 6.36
+distribution_type:   module
+requires:     
+    Tk:                            800.015
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.2.html
+    version: 1.2
+configure_requires:
+  Tk::MMutil: 0
+  Tk::Config: 0

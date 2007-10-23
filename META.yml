@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Tk-JPEG-Lite
-version:             2.014_04
+version:             2.014_05
 abstract:            ~
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.36

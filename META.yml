@@ -5,6 +5,7 @@ author:
 build_requires:
   ExtUtils::MakeMaker: 0
 configure_requires:
+  Devel::CheckLib: 0
   ExtUtils::MakeMaker: 0
   Tk::Config: 0
   Tk::MMutil: 0
@@ -23,4 +24,4 @@ requires:
   Tk: 800.015
 resources:
   repository: git://github.com/eserte/tk-jpeg-lite.git
-version: 2.014_06
+version: 2.014_07

@@ -29,7 +29,6 @@
          "requires" : {
             "Devel::CheckLib" : "0",
             "ExtUtils::MakeMaker" : "0",
-            "Tk::Config" : "0",
             "Tk::MMutil" : "0"
          }
       },
@@ -39,11 +38,11 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "repository" : {
          "url" : "git://github.com/eserte/tk-jpeg-lite.git"
       }
    },
-   "version" : "2.014_07"
+   "version" : "2.015"
 }
